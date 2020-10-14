@@ -11,3 +11,5 @@ $ C22-5 added <link> and <script></script> tags for superslider
 
 # C22-6 added code from https://github.com/nicinabox/superslides:
 # Markup and Usage sections (usage code only pasted in console at this point)
+
+$ C22-7 Initial code to get the slider to show up when index.html loads
