@@ -8,3 +8,6 @@ $ C22-3 added jQuery cdn to index.html in <head></head>
 
 $ Fullscreen Image Slider section
 $ C22-5 added <link> and <script></script> tags for superslider
+
+# C22-6 added code from https://github.com/nicinabox/superslides:
+# Markup and Usage sections (usage code only pasted in console at this point)
