@@ -67,3 +67,15 @@ $ Start Section 4: About Section
 
 $ C22-16 Added Text to the About Section
 $ =============================================================================
+
+
+
+
+
+# =============================================================================
+# Start Section 5: Technical Skills Section
+
+$ C22-17 Creating the skills section HTML
+$ Look for colors from flatuicolors.com, Orange Hibiscus from German Palette
+
+# =============================================================================
