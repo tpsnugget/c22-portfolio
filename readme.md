@@ -1,5 +1,6 @@
 # =============================================================================
-# Start Section 1:
+$ Start Section 1: Introduction - Setup
+
 # C22-2 added index.html
 
 $ C22-3 added jQuery cdn to index.html in <head></head>
@@ -14,7 +15,8 @@ $ C22-3 added jQuery cdn to index.html in <head></head>
 
 
 $ =============================================================================
-$ Start Section 2:
+# Start Section 2: Fullscreen Image Slider
+
 $ Fullscreen Image Slider section
 $ C22-5 added <link> and <script></script> tags for superslider
 
@@ -41,7 +43,8 @@ $ =============================================================================
 
 
 # =============================================================================
-$ Start Section 3:
+# Start Section 3: Title Section
+
 $ C22-13 Title Section HTML
 $ Style Name and Job Title
 
@@ -51,3 +54,14 @@ $ Style Name and Job Title
 # jquery.superslides.js file in index.html
 # Got to script.js
 # =============================================================================
+
+
+
+
+
+$ =============================================================================
+$ Start Section 4: About Section
+
+# C22-15 About Sectin HTML
+# Added photo
+$ =============================================================================
