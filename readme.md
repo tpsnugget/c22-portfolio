@@ -64,4 +64,6 @@ $ Start Section 4: About Section
 
 # C22-15 About Sectin HTML
 # Added photo
+
+$ C22-16 Added Text to the About Section
 $ =============================================================================
