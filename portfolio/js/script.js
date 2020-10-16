@@ -1,3 +1,3 @@
 $(document).ready(() => {
-  $("#slides").superslides();
+  $("#slides").superslides({ animation: 'fade', pagination: false, play: 7500 });
 });

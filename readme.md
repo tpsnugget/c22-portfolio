@@ -13,3 +13,8 @@ $ C22-5 added <link> and <script></script> tags for superslider
 # Markup and Usage sections (usage code only pasted in console at this point)
 
 $ C22-7 Initial code to get the slider to show up when index.html loads
+
+# C22-8 Downloaded pictures from pexels.com and reffed them in code from
+# previous section
+
+$ C22-9 Add superslides options
