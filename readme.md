@@ -100,4 +100,6 @@ $ copy from jQuery section in Get started
 $   $('.chart').easyPieChart({
 $       //your options goes here
 $       });
+
+# C22-20 Pie Chart Options
 # =============================================================================
