@@ -78,4 +78,11 @@ $ =============================================================================
 $ C22-17 Creating the skills section HTML
 $ Look for colors from flatuicolors.com, Orange Hibiscus from German Palette
 
+# C22-18 Adding the Slider
+# From owl carousel from github https://owlcarousel2.github.io/OwlCarousel2/
+# Paste owl.carousel.min.js in /js
+# Paste owl.carousel.min.css in /css
+# Add both to index.html
+# Copy basic Setup from Owl Carousel site
+# Copy basic html from Owl Carousel site
 # =============================================================================
