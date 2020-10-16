@@ -22,4 +22,6 @@ $ C22-9 Add superslides options
 # C22-10 Add Next / Previus Buttons from superslides github repo
 # get icons from icons8 and copy to img/icons/
 
-$ C22-11 
+$ C22-11 Styling the next / previous buttons
+
+# C22-12 Add dark background overlay to slides
