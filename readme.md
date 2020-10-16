@@ -18,3 +18,8 @@ $ C22-7 Initial code to get the slider to show up when index.html loads
 # previous section
 
 $ C22-9 Add superslides options
+
+# C22-10 Add Next / Previus Buttons from superslides github repo
+# get icons from icons8 and copy to img/icons/
+
+$ C22-11 
