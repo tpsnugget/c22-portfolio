@@ -44,4 +44,10 @@ $ =============================================================================
 $ Start Section 3:
 $ C22-13 Title Section HTML
 $ Style Name and Job Title
+
+# C22-14 Typed JS
+# typed.js on github
+# download ZIP and copy typed.min.js from lib to my js directory and add below
+# jquery.superslides.js file in index.html
+# Got to script.js
 # =============================================================================
