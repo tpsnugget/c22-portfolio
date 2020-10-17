@@ -104,4 +104,6 @@ $       });
 # C22-20 Pie Chart Options
 
 $ C22-21 Styling the Charts
+
+# C22-22 Activating the Charts on Scroll
 # =============================================================================
