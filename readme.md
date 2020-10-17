@@ -102,4 +102,6 @@ $       //your options goes here
 $       });
 
 # C22-20 Pie Chart Options
+
+$ C22-21 Styling the Charts
 # =============================================================================
