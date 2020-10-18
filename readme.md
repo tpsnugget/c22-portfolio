@@ -162,4 +162,6 @@ $ The thumbnail needs to be a square
 $ Open photo with Preview, click and drag until dims are equal for a square,
 $  shift + drag corner will maintain square, cmd + k to crop and it will
 $  automatically save the file
+
+# C22-35 Portfolio Item Icons
 $ =============================================================================
