@@ -173,4 +173,6 @@ $ fancybox plugin
 $ C22-38 Adding an Overlay to the Items
 
 # C22-39 Adding Fly In / Out Transitions to the Buttons
+
+$ C22-40 Zooming the Images on Hover
 $ =============================================================================
