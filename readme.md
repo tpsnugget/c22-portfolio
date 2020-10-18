@@ -122,4 +122,8 @@ $ C22-24 Styling the Skills Items
 # C22-25 Using Font Awesome
 
 $ C22-26 Adding the Icon to the Items (and style)
+
+# C22-27 Counting the Number up from 0
+# Plugin countup.js, had to download the two files from his Udemy
+# project files
 $ =============================================================================
