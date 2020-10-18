@@ -120,4 +120,6 @@ $ Start Section 6: Stats Section
 $ C22-24 Styling the Skills Items
 
 # C22-25 Using Font Awesome
+
+$ C22-26 Adding the Icon to the Items (and style)
 $ =============================================================================
