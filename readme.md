@@ -177,4 +177,6 @@ $ C22-38 Adding an Overlay to the Items
 $ C22-40 Zooming the Images on Hover
 
 # C22-41 Filtering Items (uses Isotope plugin)
+
+$ C22-42 Bug Fix - Icons not showing on Mobile
 $ =============================================================================
