@@ -71,4 +71,13 @@ $(document).ready(() => {
 
   $("[data-fancybox]").fancybox();
 
+  $(.items).isotope({
+    filter: '*',
+    asimationOptions: {
+      duration: 1500,
+      easing: 'linear',
+      queue: false
+    }
+  })
+
 });

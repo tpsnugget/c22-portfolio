@@ -167,4 +167,6 @@ $  automatically save the file
 
 $ C22-36 Viewing items in Full Screen
 $ fancybox plugin
+
+# C22-37 Styling the Items
 $ =============================================================================
