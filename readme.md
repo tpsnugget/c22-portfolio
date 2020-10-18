@@ -141,3 +141,15 @@ $ C22-29 Creating the Contact Section HTML
 
 # C22-30 Styling the Contact Section
 # =============================================================================
+
+
+
+
+
+$ =============================================================================
+$ Start Section 8: Portfolio Section
+
+# C22-31 Adding Isotope
+# Isotope js plugin, https://isotope.metafizzy.co/
+# https://unpkg.com/isotope-layout@3.0.6/dist/isotope.pkgd.min.js
+$ =============================================================================
