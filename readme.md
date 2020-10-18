@@ -169,4 +169,6 @@ $ C22-36 Viewing items in Full Screen
 $ fancybox plugin
 
 # C22-37 Styling the Items
+
+$ C22-38 Adding an Overlay to the Items
 $ =============================================================================
