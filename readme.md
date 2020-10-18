@@ -156,4 +156,10 @@ $ Start Section 8: Portfolio Section
 $ C22-32 Adding the Filter Buttons
 
 # C22-33 Styling the Filter Buttons
+
+$ C22-34 Creating a Portfolio Item
+$ The thumbnail needs to be a square
+$ Open photo with Preview, click and drag until dims are equal for a square,
+$  shift + drag corner will maintain square, cmd + k to crop and it will
+$  automatically save the file
 $ =============================================================================
