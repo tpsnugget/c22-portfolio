@@ -118,4 +118,6 @@ $ Start Section 6: Stats Section
 # C22-23 Creating the Stats Section HTML
 
 $ C22-24 Styling the Skills Items
+
+# C22-25 Using Font Awesome
 $ =============================================================================
