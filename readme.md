@@ -164,4 +164,7 @@ $  shift + drag corner will maintain square, cmd + k to crop and it will
 $  automatically save the file
 
 # C22-35 Portfolio Item Icons
+
+$ C22-36 Viewing items in Full Screen
+$ fancybox plugin
 $ =============================================================================
