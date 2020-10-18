@@ -171,4 +171,6 @@ $ fancybox plugin
 # C22-37 Styling the Items
 
 $ C22-38 Adding an Overlay to the Items
+
+# C22-39 Adding Fly In / Out Transitions to the Buttons
 $ =============================================================================
