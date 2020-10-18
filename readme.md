@@ -154,4 +154,6 @@ $ Start Section 8: Portfolio Section
 # https://unpkg.com/isotope-layout@3.0.6/dist/isotope.pkgd.min.js
 
 $ C22-32 Adding the Filter Buttons
+
+# C22-33 Styling the Filter Buttons
 $ =============================================================================
