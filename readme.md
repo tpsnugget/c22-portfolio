@@ -203,4 +203,6 @@ $ Start Sectin 10: Creating the Navigation Menu
 $ C22-45 Styling the Navigation Bar
 
 # C22-46 Sticking Navigation Bar on Scroll
+
+# C22-47 Fixing Navigation Bugs
 $ =============================================================================
