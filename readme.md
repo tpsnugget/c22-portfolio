@@ -198,5 +198,7 @@ $ C22-43 Creating the Copyright Section
 $ =============================================================================
 $ Start Sectin 10: Creating the Navigation Menu
 
-# C22-44 Adding the Bootstrap Navigation Menu 
+# C22-44 Adding the Bootstrap Navigation Menu
+
+$ C22-45 Styling the Navigation Bar
 $ =============================================================================
