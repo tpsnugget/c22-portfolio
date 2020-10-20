@@ -2,6 +2,15 @@ $(window).on('load', function(){
   $('.loader .inner').fadeOut('500', function(){
     $('.loader').fadeOut('750')
   })
+
+  $('.items').isotope({
+    filter: '*',
+    asimationOptions: {
+      duration: 1500,
+      easing: 'linear',
+      queue: false
+    }
+  })
 })
 
 $(document).ready(() => {
@@ -76,15 +85,6 @@ $(document).ready(() => {
   })
 
   $("[data-fancybox]").fancybox();
-
-  $('.items').isotope({
-    filter: '*',
-    asimationOptions: {
-      duration: 1500,
-      easing: 'linear',
-      queue: false
-    }
-  })
 
   $('#filters a').click(function(){
     $('#filters .current').removeClass('current')
